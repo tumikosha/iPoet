@@ -21,8 +21,12 @@ version 0.1 (совсем непричесанный)
       
       seasonText=iPoet2.readFromFile("leto.txt")
       phrases=loadPhrases(seasonText,"u-u-u u-u")
+      print (phrases)
 
 файл posthaiku.py для примера генерации хокку из дампа постов с фейсбука
+
+Спасибо LLEO Kaganovu за идею.
+
 
 
 
